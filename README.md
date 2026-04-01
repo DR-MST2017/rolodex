@@ -143,9 +143,9 @@ o	Structurer correctement un projet Flutter avec data/, screens/, theme/.
 
 Affichage après running :
 <img width="945" height="298" alt="image" src="https://github.com/user-attachments/assets/cffc7816-c8a8-4e21-919d-0b620878a44e" />
-1. Introduction
+1. Introduction de deuximme partie de tp
 
-Dans ce TP, nous avons étudié le concept de Responsive Design dans Flutter.
+Dans cette partie de  TP, nous avons étudié le concept de Responsive Design dans Flutter.
 L'objectif principal est de créer une interface utilisateur capable de s'adapter automatiquement à différentes tailles d’écran comme les smartphones, les tablettes et les ordinateurs.
 
 Pour cela, nous avons utilisé plusieurs concepts importants :
